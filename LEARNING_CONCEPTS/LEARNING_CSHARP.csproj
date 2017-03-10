@@ -41,7 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Learn_03.cs" />
+    <Compile Include="Learn_04.cs" />
+    <Compile Include="Learn_02.cs" />
+    <Compile Include="Learn_01.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
